@@ -45,11 +45,11 @@ body{
     color: white;
     margin: 0;
 }
-.weather-description p{
+#weather-description{
     font-size: 2rem;
     color: rgb(255, 80, 80);
 }
-#country{
+#location{
     color: white;
     font-size: 1.5rem;
 }
